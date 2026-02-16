@@ -1,0 +1,12 @@
+-- Copyright (C) 2025 hellohellohell012321
+-- Licensed under the GNU GPL v3. See LICENSE file for details.
+
+pcall(function()
+    loadstring(
+        game:HttpGet("https://hellohellohell0.com/talentless-raw/MAIN.lua", true)
+    )()
+end)
+
+loadstring(
+    game:HttpGet("https://raw.githubusercontent.com/hellohellohell012321/discordpopup/main/discordpopup.lua", true)
+)()
